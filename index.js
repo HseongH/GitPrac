@@ -3,3 +3,7 @@ const helpme = () => {
 }
 
 helpme();
+
+const saveme = () => {
+  console.log("이게 나라냐?")
+}
