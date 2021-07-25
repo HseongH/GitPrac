@@ -4,4 +4,8 @@ const helpme = () => {
 
 helpme();
 
+const saveme = () => {
+  console.log("이게 나라냐?")
+}
+
 console.log('집에 가고싶어요');
